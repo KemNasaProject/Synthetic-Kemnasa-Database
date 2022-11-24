@@ -1,14 +1,14 @@
 {
-  "name": "synthetic-horizon-database",
+  "name": "synthetic-kemnasa-database",
   "version": "1.2.3",
-  "description": "Database tổng hợp ngắn gọn cho Fca-Horizon-Remake",
+  "description": "Database tổng hợp ngắn gọn cho Fca-Kemnasa-Remake",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HarryWakazaki/Synthetic-Horizon-Database"
+    "url": "https://github.com/KemNasaProject/Synthetic-Kemnasa-Database"
   },
   "dependencies": {
     "lodash": "latest",
@@ -19,9 +19,9 @@
   },
   "keywords": [
     "Synthetic",
-    "Horizon",
+    "Kemnasa",
     "Database"
   ],
-  "author": "KanzuWakazaki",
+  "author": "KemNasa",
   "license": "ISC"
 }
